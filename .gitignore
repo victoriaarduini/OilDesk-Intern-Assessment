@@ -1,2 +1,4 @@
 *.db
 .ipynb_checkpoints/
+*.db
+.ipynb_checkpoints/
